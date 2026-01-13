@@ -1,0 +1,1 @@
+A command line Java app that lets users save, search, and organize code snippets by name, language, and tags. Users can add snippets, view all saved code, filter by language, or delete entries through a simple menu system.
