@@ -1,0 +1,9 @@
+com/snippet/retrievers/Search.class
+com/snippet/storage/StorageProvider.class
+com/snippet/storage/FileStorage.class
+com/snippet/Interact.class
+com/snippet/Main.class
+com/snippet/Snippet.class
+com/snippet/SnippetManager.class
+com/snippet/SnippetRetriever.class
+com/snippet/retrievers/LanguageFilter.class

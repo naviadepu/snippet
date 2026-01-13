@@ -1,0 +1,9 @@
+/workspace/spring-petclinic/src/main/java/com/snippet/Interact.java
+/workspace/spring-petclinic/src/main/java/com/snippet/Main.java
+/workspace/spring-petclinic/src/main/java/com/snippet/Snippet.java
+/workspace/spring-petclinic/src/main/java/com/snippet/SnippetManager.java
+/workspace/spring-petclinic/src/main/java/com/snippet/SnippetRetriever.java
+/workspace/spring-petclinic/src/main/java/com/snippet/retrievers/LanguageFilter.java
+/workspace/spring-petclinic/src/main/java/com/snippet/retrievers/Search.java
+/workspace/spring-petclinic/src/main/java/com/snippet/storage/FileStorage.java
+/workspace/spring-petclinic/src/main/java/com/snippet/storage/StorageProvider.java
